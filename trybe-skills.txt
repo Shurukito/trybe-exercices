@@ -1,4 +1,8 @@
+trybe-skills-updates
 - Unix
 - Bash
 -HTML
 - CSS
+- Softskills sobre autoliderança e gestão de tempo
+- Softskills sobre comunicação assertiva
+main
