@@ -1,0 +1,1 @@
+Diretório contendo todos os exercícios relacionados ao dia 3 do bloco 3 de estudos de HTML e CSS.
