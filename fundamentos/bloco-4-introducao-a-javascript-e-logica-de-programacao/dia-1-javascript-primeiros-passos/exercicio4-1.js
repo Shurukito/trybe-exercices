@@ -35,3 +35,4 @@ console.log(resultado);
 resultado = a % b;
 
 console.log(resultado);
+
